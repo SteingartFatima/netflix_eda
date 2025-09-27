@@ -35,9 +35,6 @@ Resultados principales
 - Géneros más frecuentes: Dramas internacionales, Comedias y Documentales.
 - Estados Unidos e India son los países con mayor aporte de títulos.
 
-Ejemplo de gráficos generados:
-![Distribución de películas y series](images/type_distribution.png)
-![Top países productores](images/top_countries.png)
 
 Conclusiones
 - Netflix mantiene un catálogo variado pero dominado por películas.
